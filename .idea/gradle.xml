@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:/Program Files/apache/gradle-7.3.3" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/kieker-analysis" />
+            <option value="$PROJECT_DIR$/kieker-checkstyle-extension" />
+            <option value="$PROJECT_DIR$/kieker-common" />
+            <option value="$PROJECT_DIR$/kieker-examples" />
+            <option value="$PROJECT_DIR$/kieker-extension-kafka" />
+            <option value="$PROJECT_DIR$/kieker-model" />
+            <option value="$PROJECT_DIR$/kieker-monitoring" />
+            <option value="$PROJECT_DIR$/kieker-tools" />
+            <option value="$PROJECT_DIR$/kieker-tools/collector" />
+            <option value="$PROJECT_DIR$/kieker-tools/convert-logging-timestamp" />
+            <option value="$PROJECT_DIR$/kieker-tools/kdb" />
+            <option value="$PROJECT_DIR$/kieker-tools/log-replayer" />
+            <option value="$PROJECT_DIR$/kieker-tools/opad" />
+            <option value="$PROJECT_DIR$/kieker-tools/resource-monitor" />
+            <option value="$PROJECT_DIR$/kieker-tools/trace-analysis" />
+            <option value="$PROJECT_DIR$/kieker-tools/trace-analysis-gui" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
